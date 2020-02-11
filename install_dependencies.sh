@@ -8,6 +8,3 @@ make lib
 cd ../cadical
 ./configure
 make
-
-cd ..
-make
